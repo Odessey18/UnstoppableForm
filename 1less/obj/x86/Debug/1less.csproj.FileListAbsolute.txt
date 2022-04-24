@@ -1,0 +1,11 @@
+C:\Users\Vasya\Desktop\1less\1less\bin\Debug\1less.exe
+C:\Users\Vasya\Desktop\1less\1less\bin\Debug\1less.pdb
+C:\Users\Vasya\Desktop\1less\1less\obj\x86\Debug\1less.csprojResolveAssemblyReference.cache
+C:\Users\Vasya\Desktop\1less\1less\obj\x86\Debug\1less.exe
+C:\Users\Vasya\Desktop\1less\1less\obj\x86\Debug\1less.pdb
+E:\1less\1less\obj\x86\Debug\1less.exe
+E:\1less\1less\obj\x86\Debug\1less.pdb
+E:\1less\1less\bin\Debug\1less.exe
+E:\1less\1less\bin\Debug\1less.pdb
+E:\1less\1less\obj\x86\Debug\1less.csproj.AssemblyReference.cache
+E:\1less\1less\obj\x86\Debug\1less.csproj.CoreCompileInputs.cache
